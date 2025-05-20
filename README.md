@@ -14,6 +14,7 @@
 - 📫 How to reach me: **masum1834e@gmail.com**  
 - 📄 Know more about me: [Portfolio](https://mdmasumbillah.vercel.app/)  
 - 🧠 I enjoy exploring **AI and Machine Learning** in my free time  
+- 💡 Passionate about transforming ideas into impactful software solutions
 
 <br/>
 
@@ -30,13 +31,14 @@
 <p>
   <a href="https://linkedin.com/in/masum184e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masum184e" height="30" width="40" /></a>
   <a href="https://fb.com/masum184e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="masum184e" height="30" width="40" /></a>
-
+    <a href="mailto:masum1834e@gmail.com" target="blank"><img align="center" src="https://github.com/masum184e/Masum184e/blob/main/icons/gmail.svg" alt="masum1834e" height="30" width="40" /></a>
 </p>
 
-### 🤝 Online Judges
+### 🎯 Online Judges
 <p>
+    <a href="https://www.leetcode.com/masum1834e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="masum1834e" height="30" width="40" /></a>
     <a href="https://codeforces.com/profile/masum1834e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="masum184e" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/masum1834e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="masum1834e" height="30" width="40" /></a>
+   <a href="https://www.codechef.com/users/masum184e" target="blank"><img align="center" src="https://github.com/masum184e/Masum184e/blob/main/icons/codechef.svg" alt="masum1834e" height="30" width="40" /></a>
 </p>
 
 ### 📊 GitHub Stats
