@@ -13,7 +13,8 @@
 - 🛠 All of my projects are available at [GitHub](https://github.com/masum184e)  
 - 📫 How to reach me: **masum1834e@gmail.com**  
 - 📄 Know more about me: [Portfolio](https://mdmasumbillah.vercel.app/)  
-- 🧠 I enjoy exploring **AI and Machine Learning** in my free time  
+- 🧠 I enjoy exploring **AI and Machine Learning** in my free time
+- 🤝 I'm open to collaboration on open source and innovative tech projects 
 - 💡 Passionate about transforming ideas into impactful software solutions
 
 <br/>
